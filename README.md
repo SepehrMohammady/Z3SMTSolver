@@ -98,12 +98,15 @@ A      ...
 **Charts:**
 
 **Optimized Gantt Chart:**
+
 ![Gantt chart showing the optimized project schedule with critical path highlighted](z3-gantt-chart.png)
 
 **Project Duration Distribution (Pre-Optimization):**
+
 ![Histogram of project durations before Z3 optimization](z3-duration-distribution.png)
 
 **Critical Path Frequency (Pre-Optimization):**
+
 ![Bar chart of critical path frequencies before Z3 optimization](z3-critical-path-frequency.png)
 
 
