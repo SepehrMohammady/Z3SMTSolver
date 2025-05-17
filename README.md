@@ -85,7 +85,6 @@ A -> B -> E -> ...
 # (Fill in with actual critical path from the optimized schedule)
 ```
 
-**(Optional: If your Z3 script also generates these prior to or alongside optimization)**
 ```
 Mean project duration (before optimization): YY.Y days
 95th percentile project duration (before optimization): ZZ.Z days
@@ -101,7 +100,6 @@ A      ...
 **Optimized Gantt Chart:**
 ![Gantt chart showing the optimized project schedule with critical path highlighted](z3-gantt-chart.png)
 
-**(Optional: If applicable and distinct from PRA charts)**
 **Project Duration Distribution (Pre-Optimization):**
 ![Histogram of project durations before Z3 optimization](z3-duration-distribution.png)
 
